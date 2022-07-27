@@ -1,1 +1,3 @@
-
+We will build a linear regression learner using Stochastic Gradient Descent,
+and apply it on the Wine Quality dataset to measure its performance.
+This is my semester project of the course Machine Learning of my Master degree.
